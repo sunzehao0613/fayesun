@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "孙放"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "放志逐心"
   location         : "重庆"
   email            :
